@@ -1,0 +1,16 @@
+C:\Studia\Programowanie\projekt 1\projekt 1\bin\Debug\projekt 1.exe.config
+C:\Studia\Programowanie\projekt 1\projekt 1\bin\Debug\projekt 1.exe
+C:\Studia\Programowanie\projekt 1\projekt 1\bin\Debug\projekt 1.pdb
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\MainWindow.g.cs
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\App.g.cs
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1_MarkupCompile.cache
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1_MarkupCompile.lref
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\MainWindow.baml
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1.g.resources
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt_1.Properties.Resources.resources
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1.csproj.GenerateResource.cache
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1.exe
+C:\Studia\Programowanie\projekt 1\projekt 1\obj\Debug\projekt 1.pdb
